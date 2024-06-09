@@ -27,7 +27,7 @@
 ## Improvements Suggested
 
 - **Introduction of Neutral Category**: To better classify reviews not directly related to the subthemes, introducing a 'neutral' sentiment category could be beneficial.
-- **Extended Training**: Increase the number of training epochs and use a more robust GPT-Neo model to enhance performance.
+- **Extended Training**: Increase the number of training epochs and use a GPT-Neo model with more parameters to enhance performance.
 
 ## Links to Deployed Models
 
